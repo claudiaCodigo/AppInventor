@@ -1,0 +1,424 @@
+{
+  "Log_list" : {
+    "143448681" : {
+      "usuario" : "\"\\/davidebtc1221@gmail.com05\\/08\\/2019 10:39:11 PM\\/\""
+    },
+    "198169175" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:30:01 PM\\/\""
+    },
+    "342288602" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:18:23 PM\\/\""
+    },
+    "355193647" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:22:14 PM\\/\""
+    },
+    "381430617" : {
+      "usuario" : "\"\\/davidebtc1221@gmail.com05\\/08\\/2019 08:21:14 PM\\/\""
+    },
+    "421541896" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:17:09 PM\\/\""
+    },
+    "464191389" : {
+      "usuario" : "\"\\/davidebtc1221@gmail.com05\\/08\\/2019 07:22:56 PM\\/\""
+    },
+    "620487335" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:20:57 PM\\/\""
+    },
+    "782826649" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 08:32:29 PM\\/\""
+    },
+    "927278216" : {
+      "usuario" : "\"\\/davidebtc1221@gmail.com05\\/08\\/2019 07:04:30 PM\\/\""
+    },
+    "997706260" : {
+      "usuario" : "\"\\/ingenieriaproyecto18@gmail.com05\\/08\\/2019 07:18:04 PM\\/\""
+    },
+    "5q94Ne53q0MtgYCaKFfJz20haX72" : {
+      "usuario" : "\"\\/david_am12@gmail.com05\\/08\\/2019 06:41:12 PM\\/\""
+    },
+    "UupUVUV4K0VCwXjIBUVMDE38BlC2" : {
+      "usuario" : "\"\\/mariaL@gmail.com05\\/06\\/2019 07:17:57 PM\\/\""
+    },
+    "iEcq9OAP70WBMHUCmBSPzSgOm493" : {
+      "usuario" : "\"\\/Otto@hotmail.com05\\/08\\/2019 08:10:45 PM\\/\""
+    },
+    "lTvk74Cae5g4RarhBTdKGWUU9M23" : {
+      "usuario" : "\"\\/a@hotmail.com05\\/08\\/2019 08:33:06 PM\\/\""
+    },
+    "sGJNFVPoRJSRPnFpVflFSCz4UAE2" : {
+      "usuario" : "\"\\/claudia12@gmail.com05\\/06\\/2019 06:52:29 PM\\/\""
+    },
+    "zVQGXGB99YZmxF8CPbziBAf1fap1" : {
+      "usuario" : "\"\\/juan19@yahoo.com05\\/06\\/2019 07:03:18 PM\\/\""
+    }
+  },
+  "Menú_letras" : [ null, null, {
+    "Letra" : "\" い  i\""
+  }, {
+    "Letra" : "\"う u\""
+  }, {
+    "Letra" : "\"え e\""
+  }, {
+    "Letra" : "\"お o\""
+  }, {
+    "Letra" : "\"か ka\""
+  }, {
+    "Letra" : "\"き ki\""
+  }, {
+    "Letra" : "\"く ku\""
+  }, {
+    "Letra" : "\"け ke\""
+  }, {
+    "Letra" : "\"こ ko\""
+  }, {
+    "Letra" : "\"さ sa\""
+  }, {
+    "Letra" : "\"し shi\""
+  }, {
+    "Letra" : "\"す su\""
+  }, {
+    "Letra" : "\"せ se\""
+  }, {
+    "Letra" : "\"そ so\""
+  }, {
+    "Letra" : "\"た ta\""
+  }, {
+    "Letra" : "\"ち chi\""
+  }, {
+    "Letra" : "\"つ tsu\""
+  }, {
+    "Letra" : "\"て te\""
+  }, {
+    "Letra" : "\"と to\""
+  }, {
+    "Letra" : "\"な na\""
+  }, {
+    "Letra" : "\"に ni\""
+  }, {
+    "Letra" : "\"ぬ nu\""
+  }, {
+    "Letra" : "\"ね ne\""
+  }, {
+    "Letra" : "\"の no\""
+  }, {
+    "Letra" : "\"は ha\""
+  }, {
+    "Letra" : "\"ひ hi\""
+  }, {
+    "Letra" : "\"ふ fu\""
+  }, {
+    "Letra" : "\"へ he\""
+  }, {
+    "Letra" : "\"ほ ho\""
+  }, {
+    "Letra" : "\"ま ma\""
+  }, {
+    "Letra" : "\"み mi\""
+  }, {
+    "Letra" : "\"む mu\""
+  }, {
+    "Letra" : "\"め me\""
+  }, {
+    "Letra" : "\"も mo\""
+  }, {
+    "Letra" : "\"や ya\""
+  }, {
+    "Letra" : "\"ゆ yu\""
+  }, {
+    "Letra" : "\"よ yo\""
+  }, {
+    "Letra" : "\"ら ra\""
+  }, {
+    "Letra" : "\"り ri\""
+  }, {
+    "Letra" : "\"る ru\""
+  }, {
+    "Letra" : "\"れ re\""
+  }, {
+    "Letra" : "\"ろ ro\""
+  }, {
+    "Letra" : "\"わ wa\""
+  }, {
+    "Letra" : "\"ん n\""
+  }, {
+    "Letra" : "\"が ga\""
+  }, {
+    "Letra" : "\"ぎ gi\""
+  }, {
+    "Letra" : "\"ぐ gu\""
+  }, {
+    "Letra" : "\"げ ge\""
+  }, {
+    "Letra" : "\"ご go\""
+  }, {
+    "Letra" : "\"ざ za\""
+  }, {
+    "Letra" : "\"じ ji\""
+  }, {
+    "Letra" : "\"ず zu\""
+  }, {
+    "Letra" : "\"ぜ ze\""
+  }, {
+    "Letra" : "\"ぞ zo\""
+  }, {
+    "Letra" : "\"だ da\""
+  }, {
+    "Letra" : "\"ぢ tdi\""
+  }, {
+    "Letra" : "\"づ tdu\""
+  }, {
+    "Letra" : "\"ど do\""
+  }, {
+    "Letra" : "\"ば ba\""
+  }, {
+    "Letra" : "\"び bi\""
+  }, {
+    "Letra" : "\"ぶ bu\""
+  }, {
+    "Letra" : "\"べ be\""
+  }, {
+    "Letra" : "\"ぼ bo\""
+  }, {
+    "Letra" : "\"ぱ pa\""
+  }, {
+    "Letra" : "\"ぴ pi\""
+  }, {
+    "Letra" : "\"ぷ pu\""
+  }, {
+    "Letra" : "\"ぺ pe\""
+  }, {
+    "Letra" : "\"ぽ po\""
+  } ],
+  "Nombres" : "[\"たまごがすき \\/ tamago ga suki\",\"ぶろっこりがすき \\/ burokkori ga suki\",\"ぎゅうにゅうがすき \\/ gyuunyuu ga suki\",\"ぱんがすき \\/ pan ga suki\",\"そおせえじがすき \\/ sooseeji ga suki\"]",
+  "Usuario_lección" : {
+    "143448681" : {
+      "Nivel" : "\"Lección 1\"",
+      "Puntos " : "100"
+    },
+    "355193647" : {
+      "Lección 2" : "\"Lección 2\"",
+      "Puntos " : "0"
+    },
+    "927278216" : {
+      "Lección 1" : "\"Lección 1\"",
+      "Puntos " : "0"
+    },
+    "5q94Ne53q0MtgYCaKFfJz20haX72" : {
+      "Lección 1" : "\"Lección 1\"",
+      "Puntos " : "35"
+    },
+    "lTvk74Cae5g4RarhBTdKGWUU9M23" : {
+      "Lección 1" : "\"Lección 1\"",
+      "Puntos " : "70"
+    }
+  },
+  "Usuarios" : {
+    "5q94Ne53q0MtgYCaKFfJz20haX72" : {
+      "contraseña" : "\"123456\"",
+      "usuario" : "\"david_am12@gmail.com\""
+    },
+    "UupUVUV4K0VCwXjIBUVMDE38BlC2" : {
+      "contraseña" : "\"123mar\"",
+      "usuario" : "\"mariaL@gmail.com\""
+    },
+    "iEcq9OAP70WBMHUCmBSPzSgOm493" : {
+      "contraseña" : "\"123456\"",
+      "usuario" : "\"Otto@hotmail.com\""
+    },
+    "ihsaeOIFRYfeZtwBmg7zCm25lTX2" : {
+      "contraseña" : "\"luisa1\"",
+      "usuario" : "\"Luisa@gmail.com\""
+    },
+    "lTvk74Cae5g4RarhBTdKGWUU9M23" : {
+      "contraseña" : "\"123456\"",
+      "usuario" : "\"a@hotmail.com\""
+    },
+    "sGJNFVPoRJSRPnFpVflFSCz4UAE2" : {
+      "contraseña" : "\"clau12\"",
+      "usuario" : "\"Claudia12@gmail.com\""
+    },
+    "zVQGXGB99YZmxF8CPbziBAf1fap1" : {
+      "contraseña" : "\"123456\"",
+      "usuario" : "\"juan19@yahoo.com\""
+    }
+  },
+  "lección_1" : [ null, {
+    "Español " : "\"Es un perro.\"",
+    "Japones " : "\"いぬです \\/ inu desu\""
+  }, {
+    "Español " : "\"Es un gato.\"",
+    "Japones " : "\"ねこです \\/ neko desu\""
+  }, {
+    "Español " : "\"Es un elefante.\"",
+    "Japones " : "\"ぞうです \\/ zou desu\""
+  }, {
+    "Español " : "\"Es un caballo.\"",
+    "Japones " : "\"うまです \\/ uma desu\""
+  }, {
+    "Español " : "\"Es un conejo.\"",
+    "Japones " : "\"うさぎです \\/ usagi desu\""
+  }, {
+    "Español " : "\"Es un lobo.\"",
+    "Japones " : "\"おおかみです \\/ ookami desu\""
+  }, {
+    "Español " : "\"Es un pato.\"",
+    "Japones " : "\"あひるです \\/ ahiru desu\""
+  }, {
+    "Español " : "\"Es un pescado.\"",
+    "Japones " : "\"さかなです \\/ sakana desu\""
+  }, {
+    "Español " : "\"Es un ratón.\"",
+    "Japones " : "\"ねずみです \\/ nezumi desu\""
+  }, {
+    "Español " : "\"Es un león.\"",
+    "Japones " : "\"とらです \\/ tora desu\""
+  } ],
+  "lección_10" : [ null, {
+    "Español " : "\"Quiero tomar agua.\"",
+    "Japones " : "\"みずをのみたい \\/ mizu wo nomitai\""
+  }, {
+    "Español " : "\"Quiero tomar cerveza.\"",
+    "Japones " : "\"びいるをのみたい \\/ biiru wo nomitai\""
+  }, {
+    "Español " : "\"Quiero tomar jugo.\"",
+    "Japones " : "\"じゅうすをのみたい \\/ juusu wo nomitai\""
+  }, {
+    "Español " : "\"Quiero tomar limonada.\"",
+    "Japones " : "\"れもねえどをのみたい \\/ remoneedo wo nomitai\""
+  }, {
+    "Español " : "\"Quiero tomar vino.\"",
+    "Japones " : "\"わいんをのみたい \\/ wain wo nomitai\""
+  } ],
+  "lección_2" : [ null, {
+    "Español " : "\"Quiero comer una manzana.\"",
+    "Japones " : "\"りんごをたべたい \\/ ringo wo tabetai\""
+  }, {
+    "Español " : "\"Quiero comer fresas.\"",
+    "Japones " : "\"いちごをたべたい \\/ ichigo wo tabetai\""
+  }, {
+    "Español " : "\"Quiero comer una naranja.\"",
+    "Japones " : "\"おれんじをたべたい \\/ orenji wo tabetai\""
+  }, {
+    "Español " : "\"Quiero comer sandía.\"",
+    "Japones " : "\"すいかをたべたい \\/ suika wo tabetai\""
+  }, {
+    "Español " : "\"Quiero comer uvas.\"",
+    "Japones " : "\"ぶどうをたべたい \\/ budou wo tabetai\""
+  } ],
+  "lección_3" : [ null, {
+    "Español " : "\"Me siento confundido.\"",
+    "Japones " : "\"こんらんをかんじます \\/ konran wo kanjimasu\""
+  }, {
+    "Español " : "\"Me siento enojado.\"",
+    "Japones " : "\"おこってをかんじます \\/ okotte wo kanjimasu\""
+  }, {
+    "Español " : "\"Me siento feliz.\"",
+    "Japones " : "\"うれしいをかんじます \\/ ureshii wo kanjimasu\""
+  }, {
+    "Español " : "\"Me siento sorprendido.\"",
+    "Japones " : "\"びっくりをかんじます \\/ bikkuri wo kanjimasu\""
+  }, {
+    "Español " : "\"Me siento triste.\"",
+    "Japones " : "\"かなしいをかんじます \\/ kanashii wo kanjimasu\""
+  } ],
+  "lección_4" : [ null, {
+    "Español " : "\"Es mi mama.\"",
+    "Japones " : "\"おかあさんです。 \\/ okaasan desu\""
+  }, {
+    "Español " : "\"Es mi papa.\"",
+    "Japones " : "\"おとうさんです。 \\/ otousan desu\""
+  }, {
+    "Español " : "\"Es mi abuelo.\"",
+    "Japones " : "\"おじいちゃんです。 \\/ ojiichan desu\""
+  }, {
+    "Español " : "\"Es mi abuela.\"",
+    "Japones " : "\"おばあちゃんです。 \\/ obaachan desu\""
+  }, {
+    "Español " : "\"Es mi hijo.\"",
+    "Japones " : "\"むすこです。 \\/ musuko desu\""
+  }, {
+    "Español " : "\"Es mi hija.\"",
+    "Japones " : "\"むすめです。 \\/ musume desu\""
+  } ],
+  "lección_5" : [ null, {
+    "Español " : "\"Me gustan los huevos.\"",
+    "Japones " : "\"たまごがすき \\/ tamago ga suki\""
+  }, {
+    "Español " : "\"Me gusta l brocoli.\"",
+    "Japones " : "\"ぶろっこりがすき \\/ burokkori ga suki\""
+  }, {
+    "Español " : "\"Me gusta la leche.\"",
+    "Japones " : "\"ぎゅうにゅうがすき \\/ gyuunyuu ga suki\""
+  }, {
+    "Español " : "\"Me gusta el pan.\"",
+    "Japones " : "\"ぱんがすき \\/ pan ga suki\""
+  }, {
+    "Español " : "\"Me gustan las salchichas.\"",
+    "Japones " : "\"そおせえじがすき \\/ sooseeji ga suki\""
+  } ],
+  "lección_6" : [ null, {
+    "Español " : "\"Vivo en Alemania.\"",
+    "Japones " : "\"どいつにすんでいます \\/ doitsu ni sunde imasu\""
+  }, {
+    "Español " : "\"Vivo en Estados Unidos.\"",
+    "Japones " : "\"あめりかにすんでいます \\/ amerika ni sunde imasu\""
+  }, {
+    "Español " : "\"Vivo en Corea del Sur.\"",
+    "Japones " : "\"かんこくにすんでいます \\/ kankoku ni sunde imasu\""
+  }, {
+    "Español " : "\"Vivo en España.\"",
+    "Japones " : "\"すぺいんにすんでいます \\/ supein ni sunde imasu\""
+  }, {
+    "Español " : "\"Vivo en México.\"",
+    "Japones " : "\"めきしこにすんでいます \\/ mekishiko ni sunde imasu\""
+  } ],
+  "lección_7" : [ null, {
+    "1" : "\"Frase: \\nあめがふって \\/ ame ga futte: Está lloviendo.\\n\"",
+    "Español " : "\"Esta lloviendo.\"",
+    "Japones " : "\"あめがふって \\/ ame ga futte\""
+  }, {
+    "2" : "\"Frase: \\nゆきがふって \\/ yuki ga futte: Está nevando.\\n\"",
+    "Español " : "\"Esta nevando.\"",
+    "Japones " : "\"ゆきがふって \\/ yuki ga futte\""
+  }, {
+    "3" : "\"Frase: \\nくもりです \\/ kumori desu: Está nublado.\\n\"",
+    "Español " : "\"Esta nublado.\"",
+    "Japones " : "\"くもりです \\/ kumori desu\""
+  }, {
+    "4" : "\"Frase: \\nはれです \\/ hare desu: Esta soleado.\\n\"",
+    "Español " : "\"Esta soleado.\"",
+    "Japones " : "\"はれです \\/ hare desu\""
+  } ],
+  "lección_8" : [ null, {
+    "Español " : "\"Yo soy chef.\"",
+    "Japones " : "\"わたしはしぇふです。 \\/ watashi ha shefu desu.\""
+  }, {
+    "Español " : "\"Yo soy doctor.\"",
+    "Japones " : "\"わたしはいしゃです。 \\/ watashi ha isha desu.\""
+  }, {
+    "Español " : "\"Yo soy enfermera.\"",
+    "Japones " : "\"わたしはかんごです。 \\/ watashi ha kango desu.\""
+  }, {
+    "Español " : "\"Yo soy maestro,\"",
+    "Japones " : "\"わたしはせんせいです。 \\/ watashi ha sensei desu.\""
+  }, {
+    "Español " : "\"Yo soy policía.\"",
+    "Japones " : "\"わたしはけいさつかんです。 \\/ watashi ha keisatsukan desu.\""
+  } ],
+  "lección_9" : [ null, {
+    "Español " : "\"Me gustan los dulces.\"",
+    "Japones " : "\"おかしがほしい \\/ okashi ga hoshii\""
+  }, {
+    "Español " : "\"Me gustan las frutas.\"",
+    "Japones " : "\"くだものがほしい \\/ kudamono ga hoshii\""
+  }, {
+    "Español " : "\"M gusta la nieve.\"",
+    "Japones " : "\"あいすくりいむがほしい \\/ aisukuriimu ga hoshii\""
+  }, {
+    "Español " : "\"Me gusta el pastel.\"",
+    "Japones " : "\"けえきがほしい \\/ keeki ga hoshii\""
+  }, {
+    "Español " : "\"Me gusta el vino.\"",
+    "Japones " : "\"わいんがほしい \\/ wain ga hoshii\""
+  } ]
+}
